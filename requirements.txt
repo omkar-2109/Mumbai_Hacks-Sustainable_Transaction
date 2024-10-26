@@ -1,0 +1,11 @@
+streamlit
+pandas
+plotly
+plotly-express
+Faker
+python-dateutil
+pytz
+six
+packaging
+typing-extensions
+numpy
